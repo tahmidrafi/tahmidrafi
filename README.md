@@ -12,6 +12,7 @@ Before the PhD I spent six years co-founding **Dimik Computing**, where I built 
 
 | Project | |
 |---|---|
+| **LiDAR 3D Corridor Inspector** · [source](https://github.com/tahmidrafi/lidar-3d-corridor-inspector) | A high-performance 3D desktop application for interactive inspection, quality control, and visual analytics of LiDAR point clouds, Canopy Height Model (CHM) detected trees, ground-truth validation data, Digital Terrain Models (DTM), and draped 3D vector layers. |
 | **[DimikOJ](https://dimikoj.com)** | Online programming judge — Laravel web app plus a sandboxed Python execution engine. Built at Dimik Computing, in production since 2017, maintained by engineers I trained. |
 | **[Great Catch](https://great-catch-tahmidrafi.netlify.app/)** · [source](https://github.com/tahmidrafi/great-catch) | Arcade fishing game — React / Next.js / TypeScript. Multi-layer parallax, damped hook physics, multi-screen game state. |
 | **[Syndicate Inc.](https://syndicate-inc-tahmidrafi.netlify.app/)** · [source](https://github.com/tahmidrafi/syndicate-inc) | Noir idle game — React. Production loops and upgrade curves driving an economy that runs between interactions. |
