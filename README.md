@@ -37,4 +37,4 @@ Six peer-reviewed papers on automated testing and quality assurance for AR/VR so
 
 #### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/tahmid) · md.tahmidulislam.rafi@utsa.edu
+[LinkedIn](https://www.linkedin.com/in/tahmid) · rafi.tahmid@outlook.com
